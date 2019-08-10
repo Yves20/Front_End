@@ -12,7 +12,7 @@ body{
 .loginbox{
 	width: 320px;
 	height: 420px;
-	background:#000;
+	background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
 	color: #FFF;
 	top: 50%;
 	left: 50%;
@@ -20,7 +20,7 @@ body{
 	transform: translate(-50%,-50%);
 	box-sizing: border-box;
 	padding: 70px 30px;
-	border-radius: 50px;
+	border-radius:50%;
 }
 .avatar{
 	width: 100px;
